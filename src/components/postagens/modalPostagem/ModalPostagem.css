@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
+
+.cursor{
+    cursor: pointer;
+  }
+
+.newPost {
+  border-color: #000 !important;
+  background-color: #ecc2ea !important;
+  color: #fff !important;
+  border-bottom-width: thick !important;
+  font-family: 'Oswald', sans-serif;
+}

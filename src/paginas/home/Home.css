@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
+
+.bemVinde {
+  color: black;
+  font-weight: bold;
+  background-color: #80d4ea;
+  border-style: solid;
+}
+
+.fraseHome{
+  font-family: 'Oswald', sans-serif;
+}
+
+.h5 {
+  color: black;
+  font-weight: bold;
+}
+
+.verPost {
+  border-color: #000 !important;
+  background-color: #ecc2ea !important;
+  color: #fff !important;
+  border-bottom-width: thick !important;
+  font-family: 'Oswald', sans-serif;
+}
+
+.bemVinde{
+  border-color: #000 ;
+  background-color: #ecc2ea ;
+  color: #fff ;
+  border-bottom-width: thick ;
+}
+
+.text-decorator-none {
+  text-decoration: none;
+}
+
+.verPosts{
+  background-color: #80d4ea;
+}
+
+.avatarEu{
+  position: relative;
+  text-align: center;
+  left: 255px;
+  top: 5px;
+}
