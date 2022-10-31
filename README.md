@@ -5,11 +5,11 @@
 </div>
 
 <div align=center>
-  <img src="https://user-images.githubusercontent.com/52469840/193559870-9338b006-b314-4c3c-bc1a-2925c318b9e2.png" alt=" Home Blog Pessoal" width="80%">
+  <img src="https://i.imgur.com/YDfRWMK.png" alt=" Home Blog Pessoal" width="80%">
 </div>
 
 <h2>
-   <img src="https://user-images.githubusercontent.com/52469840/193563135-dc3f71a3-872e-4781-995b-cf238ab7d54f.svg" alt="computer" width="4%"> &nbsp
+   <img src="https://user-images.githubusercontent.com/52469840/193563135-dc3f71a3-872e-4781-995b-cf238ab7d54f.svg" alt="computer" width="10%"> &nbsp
    Technologies:
 </h2>
 
